@@ -2,7 +2,7 @@
 
 A periodic table program that labels what you shouldn't lick. Most things you shouldn't be licking.
 
-![Screenshot](screenshot.png)
+![Screenshot](CanILickIt.png)
 
 # Legal Notice
 
