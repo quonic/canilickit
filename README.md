@@ -2,6 +2,8 @@
 
 A periodic table program that labels what you shouldn't lick. Most things you shouldn't be licking.
 
+From [meme](https://www.reddit.com/r/physicsmemes/comments/1ch8i0k/can_i_lick_it/) to code
+
 ![Screenshot](CanILickIt.png)
 
 # Legal Notice
